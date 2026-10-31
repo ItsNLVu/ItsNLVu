@@ -3,7 +3,7 @@
 I build web systems, automations and AI agents to order, from Ho Chi Minh City (GMT+7).
 Client work since 02/2025. Every project, with its proof, is at **[itsvunl.com](https://itsvunl.com)**.
 
-[Book a 20-minute call](https://itsvunl.com/book) · [Email](mailto:nguyenlongvux1@gmail.com) · [CV (PDF)](https://itsvunl.com/pdf/nguyen-long-vu-cv-fullstack.pdf)
+[Book a 20-minute call](https://itsvunl.com/book) · [Email](mailto:nguyenlongvux1@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nguyenlongvu) · [Full-Stack CV (PDF)](https://itsvunl.com/pdf/nguyen-long-vu-cv-fullstack.pdf) · [AI & Automation CV (PDF)](https://itsvunl.com/pdf/nguyen-long-vu-cv-automation.pdf)
 
 ## Open source
 
